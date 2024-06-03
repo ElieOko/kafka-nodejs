@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafka-node": "^5.0.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.4.1"
+  }
+}
